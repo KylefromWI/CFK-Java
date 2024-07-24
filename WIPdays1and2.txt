@@ -1,0 +1,19 @@
+Hello all. This file will include the concepts we've touched on so far. 
+Currently it is a WIP (Work In Progress)
+
+Command Prompt: the way to directly interface with your Windows system. Alternately called the terminal or the console
+
+Command prompt commands we've been using
+
+    dir : tells you what 'folder' you're currently inside of. Lists the contents of your current folder
+          short for "directory", which is the technical name for folder
+          
+    cd <destination> : changes your location. Short for "change directory"
+    
+    javac <fileName>.java : compiles your code. 
+          Outputs a .class file with the same name as your .java file
+          Remember to include the .java extension of your program's name
+    
+    java <className> : executes a .class file. 
+          Think of this command as saying "Do java on this file"
+
