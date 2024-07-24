@@ -2,6 +2,8 @@
 
 Please email or tell Kyle any and all ways to improve. He wants this class/repo to be as useful as possible. 
 
+Kyle will reward anyone who finds bugs in these files.
+
 ## Course Outline
 * Day 1: introductions and HelloWorld
 * Day 2: about Strings and some numbers
