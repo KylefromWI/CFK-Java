@@ -4,3 +4,6 @@ Please email or tell Kyle any and all ways to improve. He wants this (class, fil
 
 External Resources
 //TODO: add resources with links. W3, XinY, Java's API
+
+//TODO format this file prettier
+
