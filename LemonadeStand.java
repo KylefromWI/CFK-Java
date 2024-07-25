@@ -54,8 +54,16 @@ public class LemonadeStand{
     //print the total cost of the user's purchase
 
     System.out.println("******************************");
+
+    //your output should be formatted like: "Your total comes out to $2.50"
     System.out.println();
     System.out.println("******************************");
+
+  //  Challenge: Sales tax
+  //   Oh no!! Due to the Digital Lemonade Stand generating so much revenue...
+  //   The IRS has demanded we charge a sales tax of 7%
+  //   Change the above code so that this tax is added to the user's total cost
+
 
     
   }
