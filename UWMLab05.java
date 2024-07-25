@@ -1,7 +1,7 @@
-//This is the fifth lab from UWM's real intro to coding course
+//This is the fifth lab from UWM's intro to coding course
 // It is a good example of if/then statements
 
-public class Lab05
+public class UWMLab05
 {
 public static void main(String[] args)
 {
