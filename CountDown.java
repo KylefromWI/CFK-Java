@@ -22,6 +22,6 @@ public class CountDown{
     
     //print a fun final message
     //(the true purpose of this line is to show the user that the loop is over)
-    System.out.println("Blast Off!!);
+    System.out.println("Blast Off!!");
   }
 }
