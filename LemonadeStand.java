@@ -1,6 +1,6 @@
 //This program runs a register for a digital lemonade stand
 
-import java.util.Scanner
+import java.util.Scanner;
 
 public class LemonadeStand{
 
