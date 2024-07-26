@@ -5,10 +5,20 @@ Please email or tell Kyle any and all ways to improve. He wants this class/repo 
 Kyle will reward anyone who finds bugs in these files.
 
 ## Course Outline
-* Day 1: introductions and HelloWorld
-* Day 2: about Strings and some numbers
+
+### Week 1
+* Day 1: introductions, about java, HelloWorld, sandwich exercise
+* Day 2: about primitive types, some numbers, variables, comments and Strings
 * Day 3: Scanner (user input) and some about conditionals (if/then, boolean values)
-* Day 4: Loops
+* Day 4: while Loop and practice previous concepts
+* Day 5: do Loop, string comparison, and Math.random
+
+### Week 2
+* Day 6
+* Day 7
+* Day 8
+* Day 9
+* Day !0
 
 ## External Resources
 * [Learn X in Y Minutes (all languages)](https://learnxinyminutes.com/)
