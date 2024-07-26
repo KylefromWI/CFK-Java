@@ -18,7 +18,7 @@ Kyle will reward anyone who finds bugs in these files.
 * Day 7
 * Day 8
 * Day 9
-* Day !0
+* Day 10
 
 ## External Resources
 * [Learn X in Y Minutes (all languages)](https://learnxinyminutes.com/)
