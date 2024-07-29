@@ -15,10 +15,10 @@ public class Library3{
 
     String input; //stores the choices the user makes
 
-    public String[] bookTitles = {"Harry Potter and the Sorcerer's Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban", "Harry Potter and the Goblet of Fire",
+    String[] bookTitles = {"Harry Potter and the Sorcerer's Stone", "Harry Potter and the Chamber of Secrets", "Harry Potter and the Prisoner of Azkaban", "Harry Potter and the Goblet of Fire",
 "Harry Potter and the Order of the Phoenix", "Harry Potter and the Halfblood Prince", "Harry Potter and the Deathly Hallows"};
 
-    public boolean[] areCheckedOut = new boolean[7];
+    boolean[] areCheckedOut = new boolean[7];
 
     areCheckedOut[1] = true;
     
