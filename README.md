@@ -14,11 +14,11 @@ Kyle will reward anyone who finds bugs in these files.
 * Day 5: do Loop, string comparison, and Math.random
 
 ### Week 2
-* Day 6
-* Day 7
-* Day 8
-* Day 9
-* Day 10
+* Day 6: brief intro to arrays, method creation, and for loops
+* Day 7: 
+* Day 8: 
+* Day 9: 
+* Day 10: 
 
 ## External Resources
 * [Learn X in Y Minutes (all languages)](https://learnxinyminutes.com/)
