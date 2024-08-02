@@ -2,7 +2,7 @@
 
 Please tell Kyle any and all ways to improve. He wants this class/repo to be as useful as possible. 
 
-Kyle will reward anyone who finds bugs in these files.
+Rewards will be given to anyone who finds bugs in these files.
 
 ## Course Outline
 
