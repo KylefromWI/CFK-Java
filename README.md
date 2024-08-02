@@ -1,6 +1,6 @@
-# Summer 2024 UWM College for Kids and Teens Introduction to Programming I
+# Summer 2024 College for Teens Introduction to Programming I
 
-Please email or tell Kyle any and all ways to improve. He wants this class/repo to be as useful as possible. 
+Please tell Kyle any and all ways to improve. He wants this class/repo to be as useful as possible. 
 
 Kyle will reward anyone who finds bugs in these files.
 
@@ -15,13 +15,13 @@ Kyle will reward anyone who finds bugs in these files.
 
 ### Week 2
 * Day 6: brief intro to arrays, method creation, and for loops
-* Day 7: 
-* Day 8: 
-* Day 9: 
+* Day 7: Fizzbuzz and modulo
+* Day 8: Practice concepts learned so far (thru Euler problem 1 and rectangle calculator)
+* Day 9: Sick (object oriented)
 * Day 10: 
 
 ## External Resources
 * [Learn X in Y Minutes (all languages)](https://learnxinyminutes.com/)
-* [Learn Java in Y Minutes](https://learnxinyminutes.com/docs/java/)
+* [Learn X in Y Minutes (Java)](https://learnxinyminutes.com/docs/java/)
 * [W3 Schools Java tutorial](https://www.w3schools.com/java/default.asp)
 * [Offical Java API documentation about the String class](https://docs.oracle.com/en%2Fjava%2Fjavase%2F22%2Fdocs%2Fapi%2F%2F/java.base/java/lang/String.html)
