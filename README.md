@@ -15,7 +15,7 @@ Kyle will reward anyone who finds bugs in these files.
 
 ### Week 2
 * Day 6: brief intro to arrays, method creation, and for loops
-* Day 7: Fizzbuzz: modulo and if else
+* Day 7: Nested loops (print a triangle) and Fizzbuzz: modulo and if else
 * Day 8: Practice concepts learned so far (thru Euler problem 1 and rectangle calculator)
 * Day 9: Sick (object oriented)
 * Day 10: 
