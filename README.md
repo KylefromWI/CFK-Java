@@ -4,10 +4,10 @@ Please tell Kyle any and all ways to improve. He wants this class/repo to be as 
 
 Rewards will be given to anyone who finds bugs in these files.
 
-## Course Outline
+## Course Outline (Guess)
 
 ### Week 1
-* Day 1: introductions, about java, HelloWorld, sandwich exercise
+* Day 1: introductions, about java, HelloWorld
 * Day 2: about primitive types, some numbers, variables, comments and Strings
 * Day 3: Scanner (user input) and some about conditionals (if/then, boolean values)
 * Day 4: while Loop and practice previous concepts
@@ -17,7 +17,7 @@ Rewards will be given to anyone who finds bugs in these files.
 * Day 6: brief intro to arrays, method creation, and for loops
 * Day 7: Nested loops (print a triangle) and Fizzbuzz: modulo and if else
 * Day 8: Practice concepts learned so far (thru Euler problem 1 and rectangle calculator)
-* Day 9: Sick (object oriented)
+* Day 9: 
 * Day 10: 
 
 ## External Resources
