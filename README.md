@@ -1,4 +1,4 @@
-# Summer 2024 College for Teens Introduction to Programming I
+# Summer 2026 College for Teens Introduction to Programming I
 
 Please tell Kyle any and all ways to improve. He wants this class/repo to be as useful as possible. 
 
