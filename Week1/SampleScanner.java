@@ -21,5 +21,5 @@ public class SampleScanner{
 
     //turn off our Scanner
     stdIn.close();
-
+  }
 }
