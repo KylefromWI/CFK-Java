@@ -57,7 +57,7 @@ public class LemonadeStandComplete{ //you can rename this if you want, just be s
   //-------
 
     //Calculate the total cost of the user's purchase and store it to the totalCost variable
-    totalCost = numLemonades*priceLemonade + numCookies*priceCookies;
+    totalCost = numLemonades*priceLemonade + numCookies*priceCookie;
 
   //---------
   // Result
